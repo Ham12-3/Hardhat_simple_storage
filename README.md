@@ -6,8 +6,16 @@ Try running some of the following tasks:
 
 ```shell
 npx hardhat help
+```
+```shell
 npx hardhat test
+```
+```shell
 REPORT_GAS=true npx hardhat test
+```
+```shell
 npx hardhat node
+```
+```shell
 npx hardhat run scripts/deploy.js
 ```
